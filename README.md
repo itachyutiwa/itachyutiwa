@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@konealassane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@konealassane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gompou loua alassane kone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gompou loua alassane kone" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gompou-loua-alassane-kone-161097212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gompou loua alassane kone" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20480497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20480497" height="30" width="40" /></a>
 <a href="https://kaggle.com/kone alassane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kone alassane" height="30" width="40" /></a>
 <a href="https://fb.com/koné alassane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koné alassane" height="30" width="40" /></a>
